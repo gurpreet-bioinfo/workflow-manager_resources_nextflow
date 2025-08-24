@@ -1,7 +1,7 @@
 #### How do you turn processing Next Generation Sequencing (NGS) / Omics data, also called as Upstream analysis, into a stress-free and organized experience instead of chaos?
 #### A Workflow Manager or Workflow Management System (WfMS) lets you run multiple bioinformatics tools in a well-organized pipeline, making every step reproducible, documented and easy to debug for real peace of mind. 
 
-# My Go-To is #Nextflow from #nf-core. Here are my some resources to get started:
+# My Go-To is #Nextflow from #nf-core and here are some great resources to get started:
 
 1. ## 📚 Reading:
     1. What is a workflow manager: https://oh-sfs-handbook.readthedocs.io/en/latest/Compute/workflows.html
